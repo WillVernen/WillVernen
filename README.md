@@ -1,6 +1,22 @@
 # 👨‍💻 Will Vernen
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+    <a href="https://github.com/WillVernen/readme-typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full-Stack;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" 
+        />
+    </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@WillVernen75"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/willvernen"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/prsousa"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/P4U7N3UX" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 Me chamo Will Vernen de Sousa e sou natural do Ceará.
 Conclui a faculdade de Análise e Desenvolvimento de Sistemas e um Curso FullStack com certificação pela Google e Microsoft. Estou atualmente cursando uma pós-graduação em MBA Data Science, Analytcs e BI. Sou apaixonado por tecnologia. Atualmente trabalho como Gerente Comercial onde desenvolvi skills como: Gestão em Liderança, Resolução de Problemas, Trabalho em equipe, Bater Metas e Trabalhar com Prazos.
