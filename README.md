@@ -74,6 +74,14 @@ Conclui a faculdade de Análise e Desenvolvimento de Sistemas e um Curso FullSta
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+<img
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
 
 <br/>
 <br/>
