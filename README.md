@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/WillVernen/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full-Stack;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" 
+        <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" 
         />
     </a>
 </p>
@@ -25,22 +25,22 @@ Conclui a faculdade de Análise e Desenvolvimento de Sistemas e um Curso FullSta
     <a href="https://github.com/WillVernen?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/WillVernen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=giyhub&label=seguidores&logoColor=white"
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/WillVernen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=giyhub&label=Followers&logoColor=white"
         />
     </a>
     <a href="https://github.com/WillVernen?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/WillVernen?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            title="Total GitHub Stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/WillVernen?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
 </p>
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Languages and Technologies
 
 <img 
     align="left" 
@@ -102,7 +102,7 @@ Conclui a faculdade de Análise e Desenvolvimento de Sistemas e um Curso FullSta
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -117,7 +117,7 @@ Conclui a faculdade de Análise e Desenvolvimento de Sistemas e um Curso FullSta
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillVernen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillVernen&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
