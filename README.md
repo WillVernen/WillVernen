@@ -18,8 +18,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-Me chamo Will Vernen de Sousa e sou natural do Ceará.
-Conclui a faculdade de Análise e Desenvolvimento de Sistemas e um Curso FullStack com certificação pela Google e Microsoft. Estou atualmente cursando uma pós-graduação em MBA Data Science, Analytcs e BI. Sou apaixonado por tecnologia. Atualmente trabalho como Gerente Comercial onde desenvolvi skills como: Gestão em Liderança, Resolução de Problemas, Trabalho em equipe, Bater Metas e Trabalhar com Prazos.
+## Hi, I'm Will Vernen! 👋
+
+### Full-Stack Developer | Passionate about solving problems with technology.
+
+I am a professional from Ceará, Brazil, transitioning into the tech industry. My journey as a Commercial Manager taught me about leadership, teamwork, and, most importantly, being results-driven. Now, I combine this business acumen with the power of code to build efficient solutions that generate real value.
 
 <p align="left">
     <a href="https://github.com/WillVernen?tab=followers">
